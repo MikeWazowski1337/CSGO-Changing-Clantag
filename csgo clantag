@@ -1,0 +1,5 @@
+bind "w" "+forward;cl_clanid #";
+bind "a" "+moveleft;cl_clanid #";
+bind "d" "+moveright;cl_clanid #";
+bind "s" "+back;cl_clanid #";
+bind "space" "+jump;cl_clanid #";
